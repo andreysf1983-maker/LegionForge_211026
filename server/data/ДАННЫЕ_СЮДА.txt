@@ -1,0 +1,3 @@
+Сюда нужна папка data от вашего клиента (dbc, maps, vmaps, mmaps, cameras, gt).
+setup.bat сам скопирует её из старой установки D:\LegionForge\server\data.
+Вручную: скопируйте ВСЁ содержимое старой папки server\data в эту папку.
